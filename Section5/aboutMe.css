@@ -1,0 +1,20 @@
+h1 {
+    /* color:red; */
+    color:rgb(240,100,100);
+    /* color:rgba(0,100,100,.4); */
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    border: 5px dashed purple;
+}
+li {
+    color:green;
+}
+h4 {
+    color:purple;
+    background:rgb(255,100,80);
+}
+body {
+    background: url("http://creativity103.com/collections/Wood/wood.jpg");
+    background-size: cover;
+}
